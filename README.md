@@ -41,8 +41,8 @@ Assembly model of the drone's frame: <br/>
 <img src="https://i.imgur.com/2ebHRUK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Nonlinear FEA stress analysis in SolidWorks  <br/>
-<img src="https://i.imgur.com/BWAkE0v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Quadcopter drone final assembly:  <br/>
+<img src="https://i.imgur.com/sB5dRD9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
