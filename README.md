@@ -10,11 +10,11 @@ The students are invited to form a group of 5-6 members from different programs 
 
 <p align="center">
 Motor mount model: <br/>
-<img src="https://i.imgur.com/PAVUJj8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7PCQZXZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Landing gear model:  <br/>
-<img src="https://i.imgur.com/xBw8hlA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TWKh0mk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Remote controller model: <br/>
