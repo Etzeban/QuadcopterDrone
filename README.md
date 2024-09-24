@@ -13,6 +13,10 @@ Motor mount model: <br/>
 <img src="https://i.imgur.com/7PCQZXZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+3D printed motor mounts:  <br/>
+<img src="https://i.imgur.com/L2h7lPw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 Landing gear model:  <br/>
 <img src="https://i.imgur.com/TWKh0mk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
