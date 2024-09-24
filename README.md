@@ -21,6 +21,10 @@ Landing gear model:  <br/>
 <img src="https://i.imgur.com/TWKh0mk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+3D printed landing gear assembled:  <br/>
+<img src="https://i.imgur.com/8a9msf4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 Remote controller model: <br/>
 <img src="https://i.imgur.com/wyItpQ6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
