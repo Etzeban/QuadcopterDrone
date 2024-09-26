@@ -9,7 +9,7 @@ The students are invited to form a group of 5-6 members from different programs 
 <h2>Project's snapshots:</h2>
 
 <p align="center">
-Motor mount model: <br/>
+Motor mount model designed in SolidWorks: <br/>
 <img src="https://i.imgur.com/7PCQZXZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -17,7 +17,7 @@ Motor mount model: <br/>
 <img src="https://i.imgur.com/L2h7lPw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Landing gear model:  <br/>
+Landing gear model designed in SolidWorls:  <br/>
 <img src="https://i.imgur.com/TWKh0mk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -25,15 +25,15 @@ Landing gear model:  <br/>
 <img src="https://i.imgur.com/8a9msf4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Remote controller model: <br/>
+Remote controller model designed in SolidWorls:  <br/>
 <img src="https://i.imgur.com/wyItpQ6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Schematic diagram of the drone:  <br/>
+Schematic diagram of the drone designed in EasyEDA:  <br/>
 <img src="https://i.imgur.com/zw3QlJN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-The drone's PCB: <br/>
+The drone's PCB designed in EasyEDA: <br/>
 <img src="https://i.imgur.com/r9BlpFO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
