@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-The students are invited to form a group of 5-6 members from different programs and to complete a design project. At the end of the semester, they should successfully build and control a quadcopter with four motors.
+The students are invited to form a group of 5-6 members from different programs and to complete a design project. I responsible for designing the drone's parts using SolidWorks, wiring diagram, and PCB. I support in the drone layout and testing. At the end of the semester, they should successfully build and control a quadcopter with four motors.
 <br />
 
 <h2>Project's snapshots:</h2>
