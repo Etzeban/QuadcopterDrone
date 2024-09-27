@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-The students are invited to form a group of 5-6 members from different programs and to complete a design project. I responsible for designing the drone's parts using SolidWorks, wiring diagram, and PCB. I support in the drone hardware layout, testing, presentation demo, and writing reports. At the end of the semester, we should successfully build a remote controled quadcopter with four motors.
+The students are invited to form a group of 5-6 members from different programs and to complete a design project. I responsible for designing the drone's parts using SolidWorks, wiring diagram and PCB using EsyEDA. I support in the drone hardware layout, procurement, testing, presentation demo, and writing reports. At the end of the semester, we successfully built a remote controled quadcopter with basic flying maneuvers.
 <br />
 
 <h2>Project's snapshots:</h2>
