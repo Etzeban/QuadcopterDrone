@@ -25,8 +25,8 @@ Landing gear model designed in SolidWorls:  <br/>
 <img src="https://i.imgur.com/8a9msf4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Remote controller model designed in SolidWorls:  <br/>
-<img src="https://i.imgur.com/wyItpQ6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Remote controller assembled in SolidWorls:  <br/>
+<img src="https://i.imgur.com/jsV5wU8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Schematic diagram of the drone designed in EasyEDA:  <br/>
