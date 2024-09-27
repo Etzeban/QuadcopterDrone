@@ -29,6 +29,10 @@ Remote controller assembled in SolidWorls:  <br/>
 <img src="https://i.imgur.com/jsV5wU8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+3D printed remote controller assembled:  <br/>
+<img src="https://i.imgur.com/9hH4mdn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 Schematic diagram of the drone designed in EasyEDA:  <br/>
 <img src="https://i.imgur.com/zw3QlJN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
